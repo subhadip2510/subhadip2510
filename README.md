@@ -1,4 +1,4 @@
-![MasterHead](https://static.vecteezy.com/system/resources/previews/007/083/356/non_2x/data-analyst-word-banner-vector.jpg)
+![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=150&section=header&text=Data%20Analyst&fontSize=60&fontColor=ffffff)
 <h1 align="center">
 <h1 align="center">
 <h1 align="center">Hi 👋, I'm Subhadip Ghosh</h1>
